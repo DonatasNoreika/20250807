@@ -1,5 +1,3 @@
-# from models.automobilis import Automobilis
-# from models.elektromobilis import Elektromobilis
 from models.elektromobilis import Automobilis, Elektromobilis
 import pickle
 
