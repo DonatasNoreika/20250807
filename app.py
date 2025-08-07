@@ -1,4 +1,5 @@
 from garazas import Garazas
+import pandas
 
 garazas = Garazas()
 
