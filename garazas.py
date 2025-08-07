@@ -35,5 +35,5 @@ class Garazas:
         self.irasyti_i_faila()
 
     def atvaizduoti_auto(self):
-        for auto in self.automobiliai:
-            print(auto)
+        for nr, auto in enumerate(self.automobiliai, 1):
+            print(nr, auto)
